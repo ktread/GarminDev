@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/treads/Github/GarminDev/Foreruner/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerApp.mc" id="3" lineNum="7" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerApp.mc" id="3" lineNum="8" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerApp.mc" id="4" lineNum="12" pc="268435479" symbol="onStart"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerApp.mc" id="5" lineNum="16" pc="268435484" symbol="onStop"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerApp.mc" id="6" lineNum="20" pc="268435489" symbol="getInitialView"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerApp.mc" id="6" lineNum="21" pc="268435493" symbol="getInitialView"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerApp.mc" id="7" lineNum="26" pc="268435531" symbol="getApp"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerApp.mc" id="7" lineNum="27" pc="268435543" symbol="getApp"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerView.mc" id="9" lineNum="8" pc="268435560" symbol="initialize"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerView.mc" id="9" lineNum="9" pc="268435564" symbol="initialize"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerView.mc" id="10" lineNum="13" pc="268435583" symbol="onLayout"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerView.mc" id="10" lineNum="14" pc="268435587" symbol="onLayout"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerView.mc" id="11" lineNum="20" pc="268435625" symbol="onShow"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerView.mc" id="12" lineNum="24" pc="268435630" symbol="onUpdate"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerView.mc" id="12" lineNum="26" pc="268435634" symbol="onUpdate"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerView.mc" id="12" lineNum="27" pc="268435651" symbol="onUpdate"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerView.mc" id="12" lineNum="28" pc="268435725" symbol="onUpdate"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerView.mc" id="12" lineNum="29" pc="268435749" symbol="onUpdate"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerView.mc" id="12" lineNum="32" pc="268435763" symbol="onUpdate"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerView.mc" id="13" lineNum="38" pc="268435784" symbol="onHide"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerView.mc" id="14" lineNum="42" pc="268435789" symbol="onExitSleep"/>
+        <entry filename="/Users/treads/Github/GarminDev/Foreruner/source/ForerunerView.mc" id="15" lineNum="46" pc="268435794" symbol="onEnterSleep"/>
+        <entry filename="Rez" id="21" lineNum="17" pc="268435799" symbol="WatchFace"/>
+        <entry filename="Rez" id="21" lineNum="19" pc="268435811" symbol="WatchFace"/>
+        <entry filename="Rez" id="21" lineNum="21" pc="268435974" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="14" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="9" object="true" symbol="ForerunerApp"/>
+        <entry id="10" object="true" symbol="ForerunerView"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+        <entry arg="true" endPc="268435625" name="dc" stackId="1" startPc="268435583"/>
+        <entry endPc="268435783" name="view" stackId="4" startPc="268435634"/>
+        <entry endPc="268435783" name="timeString" stackId="3" startPc="268435634"/>
+        <entry endPc="268435783" name="clockTime" stackId="2" startPc="268435634"/>
+        <entry arg="true" endPc="268435784" name="dc" stackId="1" startPc="268435630"/>
+        <entry endPc="268435991" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268435811"/>
+        <entry arg="true" endPc="268435992" name="dc" stackId="1" startPc="268435799"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/Rez" offset="158" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="237" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="276" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="307" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="338" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="377" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="408" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/ForerunerView" offset="447" parentId="globals" symbolId="ForerunerView" type="class"/>
+        <dataEntry label="globals/ForerunerApp" offset="542" parentId="globals" symbolId="ForerunerApp" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="ForerunerApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="ForerunerApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="ForerunerApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="ForerunerApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ForerunerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="ForerunerView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="ForerunerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="ForerunerView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="ForerunerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="ForerunerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="ForerunerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
